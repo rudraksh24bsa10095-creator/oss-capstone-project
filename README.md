@@ -7,6 +7,7 @@ and philosophy to its practical implementation on Linux.
 
 **Student Name:** Rudraksh Pant  
 **Roll No:** 24BSA10095
+
 **Subject:** Open Source Software  
 **Academic Year:** 2024–2025  
 
