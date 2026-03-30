@@ -1,0 +1,10 @@
+2024-01-01 10:00:01 INFO  System started successfully
+2024-01-01 10:01:15 ERROR Failed to connect to database
+2024-01-01 10:02:30 WARNING Disk usage above 80%
+2024-01-01 10:03:44 ERROR Timeout error on port 8080
+2024-01-01 10:04:10 INFO  Retry attempt 1
+2024-01-01 10:05:55 ERROR Authentication failed for user admin
+2024-01-01 10:06:20 WARNING Memory usage is high
+2024-01-01 10:07:33 INFO  Service restarted
+2024-01-01 10:08:45 FAILED Connection to server lost
+2024-01-01 10:09:00 INFO  Reconnection successful
